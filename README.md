@@ -24,7 +24,7 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-## `whoami`
+## `👩‍💻 About Me`
 
 Hi, I'm **Aya Sadiq**, a web development student from Morocco passionate about creating useful digital solutions.
 
@@ -124,16 +124,6 @@ A digital reporting project exploring report processing and similarity analysis.
 <br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=ayasadiq04&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 🐍 Contributions in Motion
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/ayasadiq04/ayasadiq04/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
 
 </div>
 
