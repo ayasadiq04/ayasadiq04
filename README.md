@@ -1,130 +1,164 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:111827,50:1D4ED8,100:0D9488&text=Aya%20Sadiq&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20Web%20Developer%20%7C%20Morocco&descSize=17&descAlignY=72" width="100%" alt="Aya Sadiq - Full Stack Web Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312E81,100:06B6D4&height=220&section=header&text=AYA%20SADIQ&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=18" alt="Animated header"/>
 
 <br/>
 
 <a href="https://github.com/ayasadiq04">
-  <img src="https://img.shields.io/badge/GitHub-ayasadiq04-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Laravel+%7C+PHP+%7C+MySQL;Building+modern+web+applications;Learning.+Building.+Improving." alt="Typing animation"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-2563EB?style=for-the-badge&logo=code&logoColor=white" alt="Web Development"/>
-<img src="https://img.shields.io/badge/Based%20in-Morocco-0D9488?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Morocco"/>
 
-<br/><br/>
+<br/>
 
-*Turning ideas into practical digital solutions.*
+<a href="https://github.com/ayasadiq04?tab=followers">
+<img src="https://img.shields.io/github/followers/ayasadiq04?style=for-the-badge&logo=github&label=FOLLOWERS&color=6366F1" alt="Followers"/>
+</a>
+<a href="https://github.com/ayasadiq04?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0891B2?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
 </div>
 
 ---
 
-## `01` — About Me
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-Hello! I'm **Aya Sadiq**, a web development student from Morocco with a passion for building useful, reliable, and user-friendly web applications.
+## `whoami`
 
-I focus on backend development with Laravel and PHP, database design, and building complete web solutions. I enjoy learning by creating projects that solve real-world problems.
+Hi, I'm **Aya Sadiq**, a web development student from Morocco passionate about creating useful digital solutions.
 
-- **Currently building:** TransportLink Maroc
-- **Main focus:** Full-Stack Web Development
-- **Backend:** PHP & Laravel
-- **Frontend:** Blade, JavaScript & Tailwind CSS
-- **Tools:** Git, GitHub & Docker
-- **Goal:** Keep learning, build quality projects, and grow as a developer.
+- 💻 Focused on Full-Stack Web Development
+- ⚙️ Building applications with Laravel and PHP
+- 🗄️ Working with relational databases and REST APIs
+- 🐳 Exploring Docker and application deployment
+- 🚀 Always learning through practical projects
+
+<br clear="right"/>
 
 ---
 
-## `02` — Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML CSS JavaScript Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" alt="Frontend skills"/>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP Laravel MySQL"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend skills"/>
 
-### Tools & Development
+### Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git GitHub Docker VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-## `03` — Featured Projects
+## 🚀 Projects in Action
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚚 TransportLink Maroc
 
-**Logistics & Freight Transportation Platform**
+A freight transportation platform connecting clients with transporters and helping manage requests, offers, vehicles, and delivery missions.
 
-A web platform designed to connect clients with transporters, manage freight requests and offers, and organize delivery missions.
+**Stack**
 
-- Transport requests and transporter offers
-- Vehicle and capacity management
-- Mission tracking and status management
-- Role-based access and notifications
+`Laravel` `PHP` `MySQL` `Blade` `Tailwind CSS`
 
-`Laravel` `PHP` `MySQL` `Blade` `Tailwind CSS` `Docker`
+</td>
+<td width="50%" valign="top">
 
 ### 🌱 AgriGest
 
-**Agricultural Plot Management**
+A web application for organizing agricultural plot information and managing parcel-related data.
 
-A web application designed to organize and manage agricultural plot information.
+**Stack**
 
 `Laravel` `PHP` `MySQL` `Docker`
 
-### 💼 DevJobs
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Job Opportunities & API Development**
+### 💼 DevJobs
 
 A web development project focused on job-related features and API functionality.
 
+**Stack**
+
 `Laravel` `PHP` `REST API`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌍 Nabd Al-Madina
 
-**Digital Reporting & Similarity Analysis**
+A digital reporting project exploring report processing and similarity analysis.
 
-A project exploring the analysis of submitted reports and the identification of similar reports.
+**Focus**
 
-*Explore my repositories for source code and implementation details.*
+`Web Development` `Data Processing`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `04` — GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayasadiq04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aya's GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayasadiq04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayasadiq04&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayasadiq04&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ayasadiq04&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ayasadiq04&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## `05` — Let's Connect
+## 🐍 Contributions in Motion
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/ayasadiq04/ayasadiq04/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/ayasadiq04">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**Open to learning, collaboration, and new opportunities.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful." alt="Closing animation"/>
 
-*Build with purpose. Learn every day. Improve continuously.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&section=footer&color=0:0D9488,50:1D4ED8,100:111827" width="100%" alt="Footer"/>
+*Code with purpose. Create with passion. Grow every day.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=120&section=footer" alt="Animated footer"/>
 
 </div>
